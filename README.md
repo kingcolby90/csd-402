@@ -1,2 +1,2 @@
 # csd-402
-java for ptogrammers
+java for programmers
